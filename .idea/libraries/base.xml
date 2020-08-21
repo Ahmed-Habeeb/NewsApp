@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/module_bundle/release/buildReleasePreBundle/out/base.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
