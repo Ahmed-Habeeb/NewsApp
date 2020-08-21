@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\projects\\Flutterprojects\\app1\\basicapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "C:\\Users\\ahmed\\AndroidStudioProjects\\NewsApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\7faf2ad74a0b9932e38d86e684646e95\\core-1.0.0\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\6b399c2363bb098ebde1725d903cbda0\\core-1.1.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
